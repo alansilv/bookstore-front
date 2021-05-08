@@ -26,9 +26,10 @@ import { CategoriaCreateComponent } from './components/views/categoria/categoria
 
 import { FormsModule } from "@angular/forms";
 import { CategoriaDeleteComponent } from './components/views/categoria/categoria-delete/categoria-delete.component';
+import { CategoriaUpdateComponent } from './components/views/categoria/categoria-update/categoria-update.component';
 
 @NgModule({
-  declarations: [AppComponent, HeaderComponent, FooterComponent, NavComponent, HomeComponent, CategoriaReadComponent, CategoriaCreateComponent, CategoriaDeleteComponent],
+  declarations: [AppComponent, HeaderComponent, FooterComponent, NavComponent, HomeComponent, CategoriaReadComponent, CategoriaCreateComponent, CategoriaDeleteComponent, CategoriaUpdateComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
