@@ -1,0 +1,41 @@
+.content {
+    width: 90%;
+    margin: 1.4rem auto auto auto;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.title h1 {
+    font-size: 2rem;
+    color: rgb(15, 12, 12);
+    font-weight: 500;
+}
+
+button {
+    margin-bottom: .8rem;
+}
+
+.table {
+    width: 100%;
+}
+
+.livros {
+    color: rgb(53, 34, 160);
+    margin-left: .6rem;
+}
+
+.edit {
+    color: rgb(180, 113, 65);
+}
+
+.delete {
+    color: rgb(172, 6, 39);
+    margin-left: .5rem;
+}
+
+.mat-header {
+    width: 5rem;
+}
