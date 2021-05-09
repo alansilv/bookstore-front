@@ -32,8 +32,6 @@ export class LivroUpdateComponent implements OnInit {
     this.findById();
   }
 
-  
-
   cancel(): void {
     this.router.navigate([`categorias/${this.id_cat}/livros`]);
   }
